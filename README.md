@@ -33,3 +33,9 @@ To run a prediction,
 ```
 python prediction.py \path\to\fingerprints\library path\to\receptor path\to\parent -g connectivity
 ```
+
+## References
+
+Original paper DOI:	https://doi.org/10.1039/D1SC00163A
+
+DeepFrag model: https://durrantlab.pitt.edu/deepfragmodel/
